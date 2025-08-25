@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+
+Save & commit it to GitHub.
+
+👉 Why?
+Because when someone clones your repo, they can just run:
+
+pip install -r requirements.txt
+
+and all the required libraries will be installed automatically.
